@@ -1,0 +1,15 @@
+.footer {
+    width: 100%;
+    margin-top: 5vh;
+    background-color: var(--green);
+}
+
+.footer .container {
+    display:flex;
+    justify-content: flex-end;
+}
+
+.store-badge {
+    width: 200px;
+    height: 200px;
+}

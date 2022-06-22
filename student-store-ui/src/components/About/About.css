@@ -1,0 +1,34 @@
+.about {
+    width: 100%;
+    text-align:left;
+    padding:10px;
+    color: var(--green);
+}
+
+.about h1 {
+    color: var(--green)
+}
+
+.content {
+    display:flex;
+    justify-content: center;
+
+    background-color: var(--green);
+    color: var(--white);
+    
+    padding: 5%;
+}
+
+.content>.section {
+    flex-basis: 50%;
+    font-size: 24px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.content img {
+    margin: 0 auto;
+    width: 70%;
+    height: fit-content;
+}
