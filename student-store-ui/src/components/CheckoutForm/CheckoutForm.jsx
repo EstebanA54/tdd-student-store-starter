@@ -1,20 +1,17 @@
-import "./CheckOutForm.css"
+import * as React from "react"
+import "./CheckoutForm.css"
 
-export default function CheckOutForm(props) {
-    return (
-        <div className={"check-out"}>
-            <h1>Log in</h1>
-            <form>
-                <label htmlFor="check-out-form">Username</label>
-                <input
-                    name="username"
-                    type="text"/>
-                    <label htmlFor="check-out-form">Password</label>
-                <input
-                    name="username"
-                    type="password"/>
-                    <input type="submit" value="Log In"></input>
-            </form>
+export default function CheckoutForm({isOpen, shoppingCart, checkoutForm, handleOnCheckoutFormChange, handleOnSubmitCheckoutForm, success, setSuccess}) {
+  console.log("succ",success)
+  return (
+    <div className="checkout-form">
+      <div className="field">
+          <div className="control">
+            <button onClick={handleOnSubmitCheckoutForm}className="button checkout-button">Checkout</button>
+            {success ? (<p className="success"></p>):
+            null}
+          </div>
         </div>
-    )
+    </div>
+  )
 }

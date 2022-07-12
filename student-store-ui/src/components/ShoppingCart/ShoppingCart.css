@@ -1,0 +1,113 @@
+.shopping-cart {
+    color: #fff;
+ }
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.shopping-cart .flex-2 {
+    flex: 2;
+    padding-left: 10px;
+}
+.shopping-cart .header-row span {
+    flex: 1;
+    color: #fff;
+    display: flex; 
+   
+    justify-content: flex-start;
+    font-size: 17px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.shopping-cart .header-row {
+    display: flex;
+    height: 50px;
+    background: #0c0a0a;
+    margin-bottom: 15px;
+}
+.shopping-cart .header-row span.center {
+    display: flex;
+    justify-content: center;
+}
+.shopping-cart .product-row {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    border-bottom: solid 1px #e4e4e4;
+    /* background-color: #fff; */
+}
+/* .shopping-cart .product-row .cart-product-quantity span.center{
+    display: flex;
+    justify-content: center;
+} */
+.name-and-price {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+  }
+.cart-product-name {
+    color: #fff4f4;
+    font-weight: 400;
+    margin-bottom: 10px;
+    
+  }
+.cart-product-quantity{
+    display: flex;
+    justify-content: center;
+}
+.shopping-cart .product-row span {
+    flex: 1;
+}
+.shopping-cart .h4{
+    color: rgb(29, 26, 26);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h1{
+    color:#ffffff;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.shopping-cart .receipt .label {
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.receipt-taxes, .receipt-subtotal , .total-price{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+.checkout-form>h3 {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input-field .control input {
+    width: 100%;
+    height: 36px;
+    padding: 0 15px;
+    border-radius: 8px;
+    border: solid 1px #e4e4e4;
+    flex: 1;
+    font-size: 16px;
+}
+.checkout-button {
+    margin-top: 10px;
+    padding: 12px 18px;
+    font-size: 18px;
+    cursor: pointer;
+    background: transparent;
+    border: solid 1px white;
+    color: #fff;
+}
