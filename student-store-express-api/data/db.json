@@ -145,5 +145,513 @@
       "price": 999.99
     }
   ],
-  "purchases": []
+  "purchases": [
+    {
+      "id": 1,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:28:15.551Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:29:20.131Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:31:32.927Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:32:21.675Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:34:22.742Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:34:48.619Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:51:40.790Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:52:55.688Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:55:33.637Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T04:56:25.681Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T05:01:33.921Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T05:02:16.205Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "2022-06-26T05:04:47.509Z",
+      "receipt": {
+        "user": {
+          "name": "ea",
+          "email": "esteban@gmail.com"
+        },
+        "items": [
+          {
+            "quantity": 3,
+            "totalPrice": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": 3.229875,
+      "createdAt": "2022-06-26T05:11:10.282Z"
+    },
+    {
+      "id": 15,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": "2.96999999999999980.26",
+      "createdAt": "2022-06-26T05:11:56.966Z"
+    },
+    {
+      "id": 16,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": "2.96999999999999980.26",
+      "createdAt": "2022-06-26T05:13:21.662Z"
+    },
+    {
+      "id": 17,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 3
+        }
+      ],
+      "total": "2.96999999999999980.26",
+      "createdAt": "2022-06-26T05:13:37.540Z"
+    },
+    {
+      "id": 18,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "0.990.09",
+      "createdAt": "2022-06-26T05:17:19.518Z"
+    },
+    {
+      "id": 19,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "00.990.09",
+      "createdAt": "2022-06-26T05:18:18.520Z"
+    },
+    {
+      "id": 20,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "00.990.09",
+      "createdAt": "2022-06-26T05:18:35.769Z"
+    },
+    {
+      "id": 21,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "00.990.086625",
+      "createdAt": "2022-06-26T05:18:48.960Z"
+    },
+    {
+      "id": 22,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": 0.086625,
+      "createdAt": "2022-06-26T05:21:14.767Z"
+    },
+    {
+      "id": 23,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "0.09",
+      "createdAt": "2022-06-26T05:22:21.764Z"
+    },
+    {
+      "id": 24,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "0.09",
+      "createdAt": "2022-06-26T05:23:05.228Z"
+    },
+    {
+      "id": 25,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "0.09",
+      "createdAt": "2022-06-26T05:25:54.425Z"
+    },
+    {
+      "id": 26,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "1.08",
+      "createdAt": "2022-06-26T05:27:33.348Z"
+    },
+    {
+      "id": 27,
+      "name": "ea",
+      "email": "esteban@gmail.com",
+      "order": [
+        {
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "1.08",
+      "createdAt": "2022-06-26T05:28:39.332Z"
+    }
+  ]
 }
